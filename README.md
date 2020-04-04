@@ -10,3 +10,4 @@ zabbix 模版备份功能
 你也不一定要赞赏，芸芸众生，相遇相识是一种缘份。不过可以给点个star，或者关注公众号，哈
 
 <img src="https://raw.githubusercontent.com/lizhw1983/docs/master/wechat.jpg" width="220" height="220" alt="赞赏码" style="float: left;"/>
+<img src="https://raw.githubusercontent.com/lizhw1983/docs/master/alipay.jpg" width="220" height="220" alt="扫码领红包" style="float: left;"/>
